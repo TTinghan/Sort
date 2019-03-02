@@ -1,0 +1,23 @@
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\bin\Debug\SelfExam.exe
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\bin\Debug\SelfExam.pdb
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.MainForm.resources
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.Properties.Resources.resources
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.csproj.GenerateResource.Cache
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.exe
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.pdb
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.AdvacedExamForm.resources
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.PrimaryExamForm.resources
+c:\users\佟萌萌\documents\visual studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.SecondaryExamForm.resources
+C:\Users\佟萌萌\Documents\Visual Studio 2010\Projects\SelfExam\SelfExam\obj\x86\Debug\SelfExam.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.exe
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.pdb
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\bin\Debug\SelfExam.exe
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\bin\Debug\SelfExam.pdb
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.AdvacedExamForm.resources
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.MainForm.resources
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.PrimaryExamForm.resources
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.Properties.Resources.resources
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.SecondaryExamForm.resources
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\SelfExam\SelfExam\obj\x86\Debug\SelfExam.AboutForm.resources

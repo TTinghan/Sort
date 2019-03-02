@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\bin\Debug\DNA.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\bin\Debug\DNA.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.FifthForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.FirstForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.FourthForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.MainForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.SecondForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.ThirdForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.AboutForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\DNA\DNA\obj\x86\Debug\DNA.SixthForm.resources
